@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sha
 if [ -z "$DOCKER_ACCOUNT" ]; then
     DOCKER_ACCOUNT=ewolff
 fi;
