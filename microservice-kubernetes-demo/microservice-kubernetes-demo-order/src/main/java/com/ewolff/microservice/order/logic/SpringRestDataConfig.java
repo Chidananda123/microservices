@@ -1,3 +1,4 @@
+
 package com.ewolff.microservice.order.logic;
 
 import org.springframework.context.annotation.Bean;
