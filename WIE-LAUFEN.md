@@ -2,7 +2,7 @@
 
 Die ist eine Schritt-für-Schritt-Anleitung zum Starten der Beispiele.
 Informationen zu Maven und Docker finden sich im
-[Cheatsheet-Projekt](https://github.com/ewolff/cheatsheets-DE).
+[Cheatsheet-Projekt](https://github.com/ewolff/cheatsheets-DE)
 
 
 ## Installation
