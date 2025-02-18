@@ -1,6 +1,6 @@
 # How to Run
 
-This is a step-by-step guide how to run the example:
+This is a step-by-step guide how to run the example:-
 
 ## Installation
 
