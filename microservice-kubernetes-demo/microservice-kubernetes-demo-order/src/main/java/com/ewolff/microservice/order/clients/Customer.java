@@ -1,3 +1,4 @@
+
 package com.ewolff.microservice.order.clients;
 
 import org.apache.commons.lang.builder.EqualsBuilder;
