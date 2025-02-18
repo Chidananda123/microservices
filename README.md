@@ -22,10 +22,10 @@ Spring Cloud.
 It uses three microservices:
 - `Order` to process orders.
 - `Customer` to handle customer data.
-- `Catalog` to handle the items in the catalog.
+- `Catalog` to handle the items in the catalog
 
 How to run
----------
+----------
 
 See [How to run](HOW-TO-RUN.md).
 
